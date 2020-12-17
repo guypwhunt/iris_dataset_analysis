@@ -5,5 +5,4 @@ voila
 pandas
 numpy
 ipywidgets
-time
 IPython.display
