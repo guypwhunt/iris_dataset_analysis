@@ -3,3 +3,4 @@ sklearn
 uk_covid19
 voila
 pandas
+numpy
