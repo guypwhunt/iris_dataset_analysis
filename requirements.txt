@@ -4,3 +4,6 @@ uk_covid19
 voila
 pandas
 numpy
+ipywidgets
+time
+IPython.display
